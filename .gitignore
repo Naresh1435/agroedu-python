@@ -1,0 +1,5 @@
+/lib
+.env
+/include
+/bin
+/__pycache__
